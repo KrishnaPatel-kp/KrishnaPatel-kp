@@ -4,20 +4,6 @@
   </span>
 </h1>
 
-<style>
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
-
 <h3 align="center">A passionate Data Analyst and Data Science Enthusiast</h3>
 
 - 🔭 I’m currently working on **I am currently working on an e-commerce web application for designer outfits for brides and bridesmaids. This project is for B's Bridal Collection, a bridal studio known for its elegant and unique bridal wear.**
