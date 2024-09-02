@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **I am currently working on an e-commerce web application for designer outfits for brides and bridesmaids. This project is for B's Bridal Collection, a bridal studio known for its elegant and unique bridal wear.**
 
-- 🌱 I’m currently learning **MEAN stack development to enhance my skills in building robust and dynamic web applications.**
+- 🌱 I’m currently learning **MERN stack development to enhance my skills in building robust and dynamic web applications.**
 
 - 💬 Ask me about **Python for data analysis,MySQL,SQL queries,Tableau.**
 
