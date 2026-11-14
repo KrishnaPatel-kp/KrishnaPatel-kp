@@ -3,7 +3,7 @@
 ### 💻 Software Developer | 🤖 AI/ML Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
 ---
